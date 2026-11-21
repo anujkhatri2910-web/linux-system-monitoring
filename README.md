@@ -29,3 +29,5 @@ chmod +x system-health.sh
 - Log file generation
 - Email notifications
 - Cron-based scheduling
+
+<img width="917" height="395" alt="image" src="https://github.com/user-attachments/assets/eaee11e7-de72-4eda-8a33-ac7cfeaef6db" />
